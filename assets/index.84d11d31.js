@@ -1,0 +1,1 @@
+import{d as t,a,f as s,u as c,r,o as l}from"./vendor.589aeaad.js";const _=t({setup(i){let o=e=>{console.log(e)};return(e,p)=>{const n=r("z-chooseCity");return l(),a("div",null,[s(n,{onChangeCity:c(o)},null,8,["onChangeCity"])])}}});export{_ as default};
